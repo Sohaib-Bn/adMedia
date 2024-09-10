@@ -49,7 +49,7 @@ function LoginForm() {
       <div className="relative z-10 grid grid-cols-2 items-center gap-x-60 justify-center px-40 2xl:px-48 h-screen w-full">
         <img
           className="h-[23rem] 2xl:h-[26rem] "
-          src="/public/Untitled-2.png"
+          src="/Untitled-2.png"
           alt="bg"
         />
         <div>

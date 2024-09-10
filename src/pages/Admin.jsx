@@ -86,9 +86,9 @@ function Admin() {
             <Signup />
             <div className="flex items-center justify-center">
               <img
-                className="h-[23rem]"
+                className="h-[25rem] 2xl:h-[26rem] "
                 src="/Untitled-2.png"
-                alt="signUpIllstration"
+                alt="bg"
               />
             </div>
             {/* <UpdateCenters /> */}
