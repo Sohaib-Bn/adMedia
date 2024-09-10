@@ -115,7 +115,7 @@ export default function ActivityChanger() {
         anchorOrigin={{ horizontal: "right", vertical: "bottom" }}
         PaperProps={menuStyle}
       >
-        {MARKETSOPTIONS[market].activities.map((act) => {
+        {MARKETSOPTIONS[market]?.activities.map((act) => {
           if (act.brands) {
             return (
               <NestedMenu

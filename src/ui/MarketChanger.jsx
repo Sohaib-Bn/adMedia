@@ -68,7 +68,7 @@ export default function MarketChanger() {
         onClick={handleClick}
         sx={buttonStyle}
       >
-        {!MARKETSOPTIONS[market].marketCode && (
+        {!MARKETSOPTIONS[market]?.marketCode && (
           <>
             <span className="text-2xl">🌍</span>
             <span>{capitalize(MARKETSOPTIONS[market]?.name)}</span>
@@ -77,7 +77,7 @@ export default function MarketChanger() {
             </span>
           </>
         )}
-        {MARKETSOPTIONS[market].marketCode && (
+        {MARKETSOPTIONS[market]?.marketCode && (
           <>
             <span className={`fi fi-${MARKETSOPTIONS[market]?.marketCode}`} />
             <span>{capitalize(MARKETSOPTIONS[market]?.name)}</span>
