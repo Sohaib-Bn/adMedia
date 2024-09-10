@@ -31,7 +31,7 @@ function LoginForm() {
     <div className="flex items-center justify-center h-screen">
       <div>
         <img
-          className="h-[13rem] 2xl:h-[14rem] absolute left-0 top-0"
+          className="h-[18rem] 2xl:h-[19rem] absolute left-0 top-0"
           src="/Untitled-1.png"
           alt="bg"
         />
@@ -41,15 +41,15 @@ function LoginForm() {
           alt="bg"
         />
         <img
-          className="h-[3.4rem] 2xl:h-[5.4rem] absolute left-[11rem] bottom-[4rem] "
+          className="h-[8rem] 2xl:h-[9rem] absolute left-[8rem] bottom-[1.5rem] 2xl:bottom-[7rem]"
           src="/Untitled-4.png"
           alt="bg"
         />
       </div>
       <div className="relative z-10 grid grid-cols-2 items-center gap-x-60 justify-center px-40 2xl:px-48 h-screen w-full">
         <img
-          className="h-[22rem] 2xl:h-[26rem] "
-          src="/Untitled-2.png"
+          className="h-[23rem] 2xl:h-[26rem] "
+          src="/public/Untitled-2.png"
           alt="bg"
         />
         <div>

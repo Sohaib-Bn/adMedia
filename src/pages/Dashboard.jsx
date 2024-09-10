@@ -90,12 +90,12 @@ function Dashboard() {
           alt="bg"
         />
         <img
-          className="h-[6rem] 2xl:h-[8.3rem] absolute right-[8rem] 2xl:right-[5.8rem] bottom-[2.5rem] 2xl:bottom-[6rem]"
+          className="h-[4.5rem] 2xl:h-[8.3rem] absolute right-[8rem] 2xl:right-[5.8rem] bottom-[2.3rem] 2xl:bottom-[6rem]"
           src="/Untitled-7.png"
           alt="bg"
         />
         <img
-          className="h-[2.9rem] 2xl:h-[3.6rem] absolute left-[8rem] bottom-[4rem] 2xl:bottom-[7rem]"
+          className="h-[8rem] 2xl:h-[9rem] absolute left-[8rem] bottom-[1.5rem] 2xl:bottom-[7rem]"
           src="/Untitled-4.png"
           alt="bg"
         />
